@@ -1,1 +1,1 @@
-This is the new updated git task
+This is a git task
