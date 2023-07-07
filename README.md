@@ -1,1 +1,1 @@
-This is a git task
+a git based task
